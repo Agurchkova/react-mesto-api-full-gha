@@ -1,0 +1,10 @@
+.photo-gallery {
+    width: 100%;
+    margin: 51px auto 0;
+}
+
+@media screen and (max-width: 648px) {
+    .photo-gallery {
+        margin: 36px auto 0;
+    }
+}

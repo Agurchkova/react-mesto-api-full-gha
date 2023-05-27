@@ -1,0 +1,11 @@
+.photo-gallery__container {
+    margin: 0;
+    min-height: 361px;
+    max-width: 100%;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}

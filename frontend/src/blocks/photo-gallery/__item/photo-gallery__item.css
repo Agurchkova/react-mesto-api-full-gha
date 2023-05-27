@@ -1,0 +1,17 @@
+.photo-gallery__item {
+    object-fit: cover;
+    /* min-width: 100%; */
+    width: 282px;
+    height: 282px;
+    box-sizing: border-box;
+    display: block;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+@media screen and (max-width: 648px) {
+    .photo-gallery__item {
+        width: 100%;
+    }
+}

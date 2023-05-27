@@ -1,0 +1,22 @@
+.page {
+    max-width: 1920px;
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: 400;
+    margin: 0 auto;
+    padding: 45px 0 60px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 886px) {
+    .page {
+        padding: 28px 0 36px;
+    }
+}

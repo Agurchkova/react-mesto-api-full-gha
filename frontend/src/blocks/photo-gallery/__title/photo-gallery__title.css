@@ -1,0 +1,12 @@
+.photo-gallery__title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 29.05px;
+    color: #000000;
+    margin: 0;
+    max-width: 195px;
+}
