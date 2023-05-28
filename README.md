@@ -10,7 +10,7 @@
 
 ## Ссылки на проект
 
-IP-адрес проекта: 158.160.101.12
+IP 158.160.101.12
 
 Frontend https://agurchkova.mesto15.nomoredomains.monster
 Backend https://api.agurchkova.mesto15.nomoredomains.monster
